@@ -1,5 +1,5 @@
-# Super Trunfo - Dia 8
+# Card Captor Super Trunfo
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dainovaes/pen/LYeGBjB](https://codepen.io/dainovaes/pen/LYeGBjB).
+Projeto de jogo Super Trunfo com o tema do famoso anime dos anos 90 Sakura Card Captor. Desenvolvido durante o evento Imersão Dev da Alura.
 
-
+O projeto pode ser acessado através do link:
